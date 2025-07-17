@@ -1,4 +1,4 @@
-"# Mini ETL JSON Project
+# Mini ETL JSON Project
 
 This is a simple ETL (Extract, Transform, Load) dashboard built with **Streamlit** and **Docker**.
 
